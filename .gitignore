@@ -1,7 +1,8 @@
-scripts/StreamCompanionCacheV2.db
-scripts/debug.log
-Files/BG.png
 Files/*.txt
 Files/Logs
-/*.dll
 Plugins/**
+/*.dll
+
+**/StreamCompanionCacheV2.db
+**/debug.log
+**/BG.png
