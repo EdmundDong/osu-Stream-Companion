@@ -3,3 +3,4 @@ scripts/debug.log
 Files/BG.png
 Files/*.txt
 Files/Logs
+*.dll
